@@ -7,6 +7,6 @@ while [ "$a" -gt 0 ]; do
 done
 
 for sample in pynaple biscute chocalate ; do
-  echo sample name - $smaple
+  echo sample name - $sample
   sleep 1
   done
