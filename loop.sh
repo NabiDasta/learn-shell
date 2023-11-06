@@ -6,7 +6,7 @@ while [ "$a" -gt 0 ]; do
   a=$((a-1))
 done
 
-for sample in pynaple biscute chocalate ; do
+for sample in apple bannana orange carriot ; do
   echo sample name - $sample
   sleep 1
   done
